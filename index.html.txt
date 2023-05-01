@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Project</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<img src="images/logo.svg" alt="Logo">
+	</header>
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+		</ul>
+	</nav>
+	<main>
+		<h1>Welcome to my project!</h1>
+		<p>This is the home page of my project.</p>
+	</main>
+</body>
+</html>
